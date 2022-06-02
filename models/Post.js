@@ -1,6 +1,5 @@
 const { Model, DataTypes } = require('sequelize');
-const { truncate } = require('./User');
-constsequelize = require('../config/connection');
+const sequelize = require('../config/connection');
 
 //create our Post model
 class Post extends Model {}
