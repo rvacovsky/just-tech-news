@@ -10,7 +10,7 @@ As a web developer, I want a fourm where I can post helpful links for my develop
 
 ## Acceptance Criteria
 
-When I got to the forum homepage I am presented with the ability to login if I already have an account or signup if I do not yet have an account. That kicks off my session on the website which starts with a dashboard view where I can post clickable links and view my previously created entires. From this dashboard I can also edit my posts.
+When I go to the forum homepage I am presented with the ability to login if I already have an account or signup if I do not yet have an account. That kicks off my session on the website which starts with a dashboard view where I can post clickable links and view my previously created entires. From this dashboard I can also edit my posts.
 
 When I click on the homepage view I can see all of the Just Tech News posts. When I click on the post of another I can comment or vote on it. When I am finished with my session I have the option to log out.
 
